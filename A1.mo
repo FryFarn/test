@@ -1,3 +1,3 @@
 model A1
-parameter a = 1;
+parameter a = 2s;
 end model;
