@@ -1,4 +1,4 @@
 Zeile 1 von  Niklas und was ge‰ndert
 Zeile 2 von Niklas von WIndows ge‰ndert
+Zeile 2 von Niklas von MacOS geändert
 Zeile 3 von Niklas und mir geändert
-
